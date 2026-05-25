@@ -1,4 +1,4 @@
-<img width="411" height="110" alt="image" src="https://github.com/user-attachments/assets/aadd2409-c33c-4c4b-ac8f-beced9188ddf" /># Windows-basic-commands-batchscript
+# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
